@@ -1,1 +1,1 @@
-
+A proposta do Jogo da Memória é desafiar o jogador a encontrar todos os pares de cartas iguais, usando a memória e a atenção. O jogador deve tentar completar o jogo com o menor número possível de movimentos.
